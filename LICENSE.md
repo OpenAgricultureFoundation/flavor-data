@@ -1,4 +1,4 @@
-Attribution-ShareAlike 4.0 International
+Attribution-ShareAlike 4.0 International  
 
 =======================================================================
 
@@ -10,7 +10,7 @@ information available on an "as-is" basis. Creative Commons gives no
 warranties regarding its licenses, any material licensed under their
 terms and conditions, or any related information. Creative Commons
 disclaims all liability for damages resulting from their use to the
-fullest extent possible.
+fullest extent possible. 
 
 Using Creative Commons Public Licenses
 
