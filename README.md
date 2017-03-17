@@ -3,7 +3,7 @@ data on flavor molecules from OpenAg experiments
 
 we're manipulating environments and measuring the effects of those manipulations on flavor molecules.
 
-These data files are measurements of volatile molecules as collected, measured, and identified by headspace-solid phase microextraction-gas chromatography-mass spectrometry (HS-SPME-GC-MS, or GC-MS for short). Individual data files contain raw relative abundances of each measured molecule, which is correlated, but not equivalent to, concentration in plant tissue. The sample masses and treatment conditions are in the ["Master list of data files" sheet] (https://github.com/OpenAgInitiative/flavor-data/blob/master/Master%20List%20of%20Data%20Files.xlsx). 
+These data files are measurements of volatile molecules as collected, measured, and identified by headspace-solid phase microextraction-gas chromatography-mass spectrometry (HS-SPME-GC-MS, or GC-MS for short). Individual data files contain raw relative abundances of each measured molecule, which is correlated, but not equivalent to, concentration in plant tissue. The sample masses and treatment conditions are in the "Master list of data files" sheet: https://github.com/OpenAgInitiative/flavor-data/blob/master/Master%20List%20of%20Data%20Files.xlsx. 
 
 ----------
 
