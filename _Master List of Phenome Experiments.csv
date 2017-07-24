@@ -1,0 +1,4 @@
+Experiment ID,Species,Experimental Conditions,Parameter of variation 1,"Levels, parameter 1",Parameter of variation 2,"Levels, parameter 2",,Start Date,End Date
+20160515OB-UVC-1,Ocimum basilicum ,6,light type,Philips Illumitex Fluorescent,UV photoperiod,control(none) long,,20160515,20160701
+20160501OB-UV-2,Ocimum basilicum ,9,Light type,Philips Illumitex Fluorescent,UV photoperiod,long short control(none),,20160810,20161006
+20161017OB-UV-3,Ocimum basilicum ,8,light type,Philips Illumitex Fluorescent,UV photoperiod,17 4 24 14 8 10 hours control (none),,20161017,20161209
