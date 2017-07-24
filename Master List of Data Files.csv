@@ -1,0 +1,39 @@
+Experiment ID,Profile ID,Data Type,Sample Weight (g),Dry Matter fraction,Main effect 1,Level 1,Main Effect 2,Level 2,replicate
+20160501OB-UV-2,20160501OB-UV-2-PS3,Volatiles,0.91,0.1240951396,Light Type,Phillips,UV photoperiod,short,3
+20160501OB-UV-2,20160501OB-UV-2-PS2,Volatiles,1.06,0.1240951396,Light Type,Phillips,UV photoperiod,short,2
+20160501OB-UV-2,20160501OB-UV-2-PS1,Volatiles,0.91,0.1240951396,Light Type,Phillips,UV photoperiod,short,1
+20160501OB-UV-2,20160501OB-UV-2-PL3,Volatiles,1.07,0.0958466454,Light Type,Phillips,UV photoperiod,long,3
+20160501OB-UV-2,20160501OB-UV-2-PL2,Volatiles,1.28,0.0958466454,Light Type,Phillips,UV photoperiod,long,2
+20160501OB-UV-2,20160501OB-UV-2-PL1,Volatiles,1.12,0.0958466454,Light Type,Phillips,UV photoperiod,long,1
+20160501OB-UV-2,20160501OB-UV-2-PC3,Volatiles,0.9,0.0773993808,Light Type,Phillips,UV photoperiod,control,3
+20160501OB-UV-2,20160501OB-UV-2-PC2,Volatiles,1.2,0.0773993808,Light Type,Phillips,UV photoperiod,control,2
+20160501OB-UV-2,20160501OB-UV-2-PC1,Volatiles,0.9,0.0773993808,Light Type,Phillips,UV photoperiod,control,1
+20160501OB-UV-2,20160501OB-UV-2-IL3,Volatiles,1.2,0.1341281669,Light Type,ILLUMITEX,UV photoperiod,long,3
+20160501OB-UV-2,20160501OB-UV-2-IL2,Volatiles,1,0.1341281669,Light Type,ILLUMITEX,UV photoperiod,long,2
+20160501OB-UV-2,20160501OB-UV-2-IL1,Volatiles,1.11,0.1341281669,Light Type,ILLUMITEX,UV photoperiod,long,1
+20160501OB-UV-2,20160501OB-UV-2-IC3,Volatiles,1.28,,Light Type,ILLUMITEX,UV photoperiod,control,3
+20160501OB-UV-2,20160501OB-UV-2-IC2,Volatiles,0.98,,Light Type,ILLUMITEX,UV photoperiod,control,2
+20160501OB-UV-2,20160501OB-UV-2-IC1,Volatiles,1.05,,Light Type,ILLUMITEX,UV photoperiod,control,1
+20160501OB-UV-2,20160501OB-UV-2-FS3,Volatiles,1.1,,Light Type,fluorescent,UV photoperiod,short,3
+20160501OB-UV-2,20160501OB-UV-2-FS2,Volatiles,1.15,,Light Type,fluorescent,UV photoperiod,short,2
+20160501OB-UV-2,20160501OB-UV-2-FS1,Volatiles,1.1,,Light Type,fluorescent,UV photoperiod,short,1
+20160501OB-UV-2,20160501OB-UV-2-FL3,Volatiles,1.14,,Light Type,fluorescent,UV photoperiod,long,3
+20160501OB-UV-2,20160501OB-UV-2-FL2,Volatiles,1,,Light Type,fluorescent,UV photoperiod,long,2
+20160501OB-UV-2,20160501OB-UV-2-FL1,Volatiles,1,,Light Type,fluorescent,UV photoperiod,long,1
+20160501OB-UV-2,20160501OB-UV-2-FC3,Volatiles,1.05,,Light Type,fluorescent,UV photoperiod,control,3
+20160501OB-UV-2,20160501OB-UV-2-FC2,Volatiles,1.18,,Light Type,fluorescent,UV photoperiod,control,2
+20160501OB-UV-2,20160501OB-UV-2-FC1,Volatiles,0.95,,Light Type,fluorescent,UV photoperiod,control,1
+20160515OB-UVC-1,20160515OB-UVC-1-C-F-1,Volatiles,1.1,,Light Type,fluorescent,UV photoperiod,control,1
+20160515OB-UVC-1,20160515OB-UVC-1-C-I-1,Volatiles,1.16,,Light Type,ILLUMITEX,UV photoperiod,control,1
+20160515OB-UVC-1,20160515OB-UVC-1-C-L-1,Volatiles,1.16,,Light Type,Phillips,UV photoperiod,control,1
+20160515OB-UVC-1,20160515OB-UVC-1-U-F-1,Volatiles,1.3,,Light Type,fluorescent,UV photoperiod,long,1
+20160515OB-UVC-1,20160515OB-UVC-1-U-I-1,Volatiles,1.39,,Light Type,ILLUMITEX,UV photoperiod,long,1
+20160515OB-UVC-1,20160515OB-UVC-1-U-L-1,Volatiles,1.108,,Light Type,Phillips,UV photoperiod,long,1
+20161017OB-UV-3,20161017OB-UV-3-U17-I,Volatiles,1.08,,Light Type,ILLUMITEX,UV photoperiod,17 hours/day,1
+20161017OB-UV-3,20161017OB-UV-3-U4-P,Volatiles,1.08,,Light Type,Phillips,UV photoperiod,4 hours/day,1
+20161017OB-UV-3,20161017OB-UV-3-U24-F,Volatiles,1.21,,Light Type,fluorescent,UV photoperiod,24 hours/day,1
+20161017OB-UV-3,20161017OB-UV-3-U14-P,Volatiles,1.11,,Light Type,Phillips,UV photoperiod,14 hours/day,1
+20161017OB-UV-3,20161017OB-UV-3-U8-F,Volatiles,1.17,,Light Type,fluorescent,UV photoperiod,8 hours/day,1
+20161017OB-UV-3,20161017OB-UV-3-U10-I,Volatiles,0.96,,Light Type,ILLUMITEX,UV photoperiod,10 hours/day,1
+20161017OB-UV-3,20161017OB-UV-3-C-F,Volatiles,1.17,,Light Type,fluorescent,UV photoperiod,control,1
+20161017OB-UV-3,20161017OB-UV-3-C-I,Volatiles,1.53,,Light Type,ILLUMITEX,UV photoperiod,control,1
